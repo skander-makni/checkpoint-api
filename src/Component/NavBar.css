@@ -1,0 +1,15 @@
+.myNavbar {
+  justify-content: space-around;
+}
+.navLink {
+  color: #9cbad8 !important;
+  font-size: 20px;
+  margin: 0 5%;
+}
+
+.selectedLink {
+  color: #faad79 !important;
+}
+.selectedLink {
+  color: #faad79 !important;
+}

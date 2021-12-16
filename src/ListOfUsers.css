@@ -1,0 +1,10 @@
+.style1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: 30px;
+  justify-content: space-around;
+}
+.style2 {
+  margin-bottom: 20px;
+}
